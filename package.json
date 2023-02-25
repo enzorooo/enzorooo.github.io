@@ -7,7 +7,7 @@
     "develop": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "deploy": "gatsby build && gh-pages -b main"
+    "deploy": "gatsby build && gh-pages -d public -b main"
   },
   "engines": {
     "node": ">=18.0.0"
