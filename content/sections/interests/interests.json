@@ -1,0 +1,58 @@
+{
+  "interests": [
+    {
+      "label": "Python",
+      "image": {
+        "src": "../../images/python-icon.png",
+        "alt": "Knows how to program in Python."
+      }
+    },
+    {
+      "label": "SQL",
+      "image": {
+        "src": "../../images/db-icon.png",
+        "alt": "Knows how to write SQL"
+      }
+    },
+    {
+      "label": "Google Cloud Platform",
+      "image": {
+        "src": "../../images/gcp-icon.png",
+        "alt": "Able to work on Google Cloud Platform."
+      }
+    },
+    {
+      "label": "DBT",
+      "image": {
+        "src": "../../images/dbt-icon.png",
+        "alt": "Able to execute data transformations on DBT"
+      }
+    },
+    {
+      "label": "Dagster",
+      "image": {
+        "src": "../../images/dagster-icon.png",
+        "alt": "Able to handle data orchestration on Dagster."
+      }
+    },
+    {
+      "label": "Airflow",
+      "image": {
+        "src": "../../images/airflow-icon.png",
+        "alt": "Able to handle data orchestration on Airflow"
+      }
+    },
+    {
+      "label": "Modern Tech-Stack",
+      "image": {
+        "src": "../../images/gatsby.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}

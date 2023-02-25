@@ -1,0 +1,43 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://www.enzomerc.com/",
+    "title": "ENZOMERC",
+    "titleTemplate": "%s · enzomerc",
+    "description": "ENZOMERC.COM",
+    "author": "Lorenzo Mercado",
+    "avatar": "../content/images/portrait.png",
+    "bio": "Lorenzo Mercado is a Data Analyst working at Thinking Machines Data Science.",
+    "social": {
+      "medium": "https://medium.com/@enzorooo",
+      "github": "https://github.com/enzorooo",
+      "linkedin": "https://www.linkedin.com/in/enzomercadoph/",
+      "mail": "mailto:hey@enzomerc.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "enzomerc" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Blog", "url": "/blog" },
+        { "label": "Projects", "url": "/#projects" },
+        { "label": "Github", "url": "/#github" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Connect w/ ME!",
+        "url": "https://www.linkedin.com/in/enzomercadoph/"
+      },
+      "footer": [
+        { "label": "Privacy", "url": "/privacy" },
+        { "label": "Imprint", "url": "/imprint" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}
