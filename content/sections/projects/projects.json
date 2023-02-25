@@ -1,0 +1,27 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "Blog",
+      "title": "Explore My World of Interests!",
+      "description": "Join me on a journey of discovery as I share my passions for programming, data, and automation. With a hint of traveling, dancing, and video games. ",
+      "tags": ["Blog", "Projects"],
+      "image": {
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "alt": "Quick Setup",
+        "linkTo": "/blog"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "/blog"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "See More",
+    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+  }
+}

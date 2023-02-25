@@ -1,0 +1,13 @@
+{
+  "name": "Lorenzo Mercado",
+  "email": "hey@enzomerc.com",
+  "description": "See any bugs, want to clarify some information? Feel Free to contact me!",
+  "image": {
+    "src": "../../images/profile_photo.JPG",
+    "alt": "Image of Lorenzo Mercado"
+  },
+  "socialProfiles": {
+    "from": ["Github"],
+    "showIcons": true
+  }
+}

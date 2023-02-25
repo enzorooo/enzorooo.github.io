@@ -1,0 +1,48 @@
+{
+  "name": "enzomerc-portfolio",
+  "version": "1.0.0",
+  "description": "This is the portfolio website of Lorenzo Mercado.",
+  "scripts": {
+    "clean": "gatsby clean",
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "deploy": "gatsby build && gh-pages -d public -b main"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "gatsby": "^5.7.0",
+    "gatsby-plugin-manifest": "^5.7.0",
+    "gatsby-theme-portfolio-minimal": "^4.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "author": "Konstantin Münster <mail@konstantin.digital>",
+  "license": "0BSD",
+  "starter-name": "gatsby-starter-portfolio-minimal-theme",
+  "homepage": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme/issues"
+  },
+  "keywords": [
+    "react",
+    "gatsby",
+    "gatsby-theme",
+    "PWA",
+    "portfolio",
+    "showcase",
+    "minimal",
+    "animations",
+    "dark-mode",
+    "gdpr-compliant"
+  ],
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}

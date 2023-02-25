@@ -1,0 +1,22 @@
+{
+  "intro": "Kumusta",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm a Enzo",
+  "subtitle": {
+    "prefix": "your certified ",
+    "highlight": "Data Man",
+    "suffix": "."
+  },
+  "description": "I'm always on a look out for automation projects spanning Workflow Automations, Data Engineering, and Data Analysis. On, my spare time hit the dance floor, travel, and play video games. Feel free to reach out to me!",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": false
+  }
+}
