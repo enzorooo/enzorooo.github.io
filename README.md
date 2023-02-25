@@ -1,2 +1,0 @@
-# enzomerc
-personal website repo
