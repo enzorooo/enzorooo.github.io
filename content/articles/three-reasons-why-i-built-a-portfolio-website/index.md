@@ -1,7 +1,7 @@
 ---
 title: "3 reasons why I built this portfolio website."
 description: "In today's digital age, having a well-crafted portfolio website can be the key to unlocking new career opportunities and showcasing your skills to a global audience. As a creator myself, I understand the power of a great portfolio website, which is why I'm excited to share the three main reasons behind why I built mine."
-date: "2021-05-28"
+date: "2023-02-25"
 banner:
   src: "./../../images/blog/three-reasons-why-i-built-a-portfolio-website/kenny-eliason-3GZNPBLImWc-unsplash.jpg"
   alt: "type type type"
